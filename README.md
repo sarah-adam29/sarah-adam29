@@ -1,7 +1,7 @@
 # Hi, I'm Sarah 👋
 
-Strategy consultant with 7+ years across the GCC and Africa: corporate
-strategy, commercial due diligence, new ventures and joint ventures,
+Strategy consultant with nearly 8 years experience across the Middle East and Africa:
+corporate strategy, commercial due diligence, new ventures and joint ventures,
 operating models. Chemical engineer by training. I'm now learning to build
 with AI and code to sharpen how I analyse, decide and execute.
 
