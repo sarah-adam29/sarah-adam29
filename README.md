@@ -5,13 +5,15 @@ corporate strategy, commercial due diligence, new ventures and joint ventures,
 operating models. Chemical engineer by training. I'm now learning to build
 with AI and code to sharpen how I analyse, decide and execute.
 
+**Portfolio:** [sarah-adam29.github.io](https://sarah-adam29.github.io) – projects, how I work, and publications
+
 ## 🛠️ What I'm building
 
 | Project | What it shows | Status |
 |---|---|---|
+| ☀️ **[Solar Project Finance](https://github.com/sarah-adam29/solar-project-finance)** | Financial modelling from sourced public data: a KSA vs UAE solar project model. Finding: awarded tariffs imply a ~3% cost of capital vs 7.5–7.7% in published estimates | v1 published |
+| 🌱 **[AI Plant-care Coach](https://github.com/sarah-adam29/plant-care)** | Remembers each plant's history and gives advice that fits its home, climate and weather. Next.js, Supabase and the Claude API | Live · invite-only pilot |
 | 🔍 **VentureLens** | A structured, AI-assisted method for sourcing, screening and writing first-pass investment memos | In progress |
-| ☀️ [**Solar Project Finance**](https://github.com/sarah-adam29/solar-project-finance) | Financial modelling from sourced public data: a KSA vs UAE solar project model and what tender prices imply about the cost of capital | In progress |
-| 🌱 **AI plant-care app** | Product thinking: an AI assistant that remembers context, tested with real users | Private pilot |
 
 ## 🧭 How I work
 
